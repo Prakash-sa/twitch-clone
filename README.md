@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Live Streaming</h1>
+  <h1 align="center">Live Streaming(Twitch Clone)</h1>
  </p>
 
 ### Fullstack Twitch Clone: Next.js 14, Live streaming, React, Prisma, Tailwind, MongoDB
